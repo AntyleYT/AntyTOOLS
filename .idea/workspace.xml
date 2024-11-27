@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="652bcd5b-389e-450a-a532-f13e98837135" name="Changes" comment="Send">
-      <change afterPath="$PROJECT_DIR$/Youtube/OYm-OpenYoutubeMod/ABOUT OYM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube/OYm-OpenYoutubeMod/Lastest/OYMv1.0.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube/OYm-OpenYoutubeMod/Old-version/OpenYoutubeMod1.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,7 @@
   "keyToString": {
     "Python.Filecomparator.executor": "Run",
     "Python.filejsoncompadeleter.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
@@ -64,6 +61,7 @@
       <recent name="C:\Users\alexpc\PycharmProjects\AntyTOOLS\Youtube\OYm-OpenYoutubeMod\Old-version" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexpc\PycharmProjects\AntyTOOLS\FILE" />
       <recent name="C:\Users\alexpc\PycharmProjects\AntyTOOLS\Youtube\OYm-OpenYoutubeMod" />
     </key>
   </component>
@@ -115,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732736777460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Send">
+      <option name="closed" value="true" />
+      <created>1732737388499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732737388499</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
